@@ -9,6 +9,7 @@ The fully convolutional network is built upon a pretrained VGG16 network
 
 ### Samplet Network Outputs
 The trained network is used to classify testing data in Kitti Road Dataset. The following are few sample network output images
+
 ![OutputImage1](um_000013.png)
 ![OutputImage2](um_000077.png)
 ![OutputImage3](uu_000032.png)
