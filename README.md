@@ -11,7 +11,7 @@ A transpose convolution layer is applied to the above sum in order to double the
 
 A transpose convolutional layer is applied to the resultant tensor such that the height and width are increased 8 folds. The dimension of thus applied tensor will be same as dimension of input image
 
-![Network Architecture](FCN Architecture.png)
+![Network Architecture](FCN_Architecture.png)
 
 ### Network Training
 The network is trained for 50 epochs with a batch size of 5. Each batch is randomly choosen from the training data in such a way that each epoch will go through all the training data once
