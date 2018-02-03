@@ -17,6 +17,8 @@ A transpose convolutional layer is applied to the resultant tensor such that the
 The network is trained for 50 epochs with a batch size of 5. Each batch is randomly choosen from the training data in such a way that each epoch will go through all the training data once
 The following is the plot of training loss over 50 epochs
 
+![TrainingLoss](Data/TrainingLoss.png)
+
 ### Samplet Network Outputs
 The trained network is used to classify testing data in Kitti Road Dataset. The following are few sample network output images
 
